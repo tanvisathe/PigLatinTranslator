@@ -1,0 +1,6 @@
+c:\users\tanvi\documents\visual studio 2017\Projects\PigLatinExtended\Lab6\bin\Debug\Lab6.exe.config
+c:\users\tanvi\documents\visual studio 2017\Projects\PigLatinExtended\Lab6\bin\Debug\Lab6.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\PigLatinExtended\Lab6\bin\Debug\Lab6.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\PigLatinExtended\Lab6\obj\Debug\Lab6.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\PigLatinExtended\Lab6\obj\Debug\Lab6.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\PigLatinExtended\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
